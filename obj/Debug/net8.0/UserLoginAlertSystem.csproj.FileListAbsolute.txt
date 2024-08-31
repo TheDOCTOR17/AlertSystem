@@ -1,0 +1,17 @@
+/Users/yash/Desktop/UserLoginAlertSystem/bin/Debug/net8.0/UserLoginAlertSystem
+/Users/yash/Desktop/UserLoginAlertSystem/bin/Debug/net8.0/UserLoginAlertSystem.deps.json
+/Users/yash/Desktop/UserLoginAlertSystem/bin/Debug/net8.0/UserLoginAlertSystem.runtimeconfig.json
+/Users/yash/Desktop/UserLoginAlertSystem/bin/Debug/net8.0/UserLoginAlertSystem.dll
+/Users/yash/Desktop/UserLoginAlertSystem/bin/Debug/net8.0/UserLoginAlertSystem.pdb
+/Users/yash/Desktop/UserLoginAlertSystem/bin/Debug/net8.0/Dapper.dll
+/Users/yash/Desktop/UserLoginAlertSystem/obj/Debug/net8.0/UserLoginAlertSystem.csproj.AssemblyReference.cache
+/Users/yash/Desktop/UserLoginAlertSystem/obj/Debug/net8.0/UserLoginAlertSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yash/Desktop/UserLoginAlertSystem/obj/Debug/net8.0/UserLoginAlertSystem.AssemblyInfoInputs.cache
+/Users/yash/Desktop/UserLoginAlertSystem/obj/Debug/net8.0/UserLoginAlertSystem.AssemblyInfo.cs
+/Users/yash/Desktop/UserLoginAlertSystem/obj/Debug/net8.0/UserLoginAlertSystem.csproj.CoreCompileInputs.cache
+/Users/yash/Desktop/UserLoginAlertSystem/obj/Debug/net8.0/UserLogi.7D2943F4.Up2Date
+/Users/yash/Desktop/UserLoginAlertSystem/obj/Debug/net8.0/UserLoginAlertSystem.dll
+/Users/yash/Desktop/UserLoginAlertSystem/obj/Debug/net8.0/refint/UserLoginAlertSystem.dll
+/Users/yash/Desktop/UserLoginAlertSystem/obj/Debug/net8.0/UserLoginAlertSystem.pdb
+/Users/yash/Desktop/UserLoginAlertSystem/obj/Debug/net8.0/UserLoginAlertSystem.genruntimeconfig.cache
+/Users/yash/Desktop/UserLoginAlertSystem/obj/Debug/net8.0/ref/UserLoginAlertSystem.dll
